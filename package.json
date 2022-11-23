@@ -5,7 +5,7 @@
   "homepage": "https://github.com/Yurkes2020/icecream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /index-999/"
+    "build": "parcel build src/*.html --public-url /icecream"
   },
   "repository": {
     "type": "git",
